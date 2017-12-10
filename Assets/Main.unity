@@ -400,6 +400,7 @@ MonoBehaviour:
   - {fileID: 1149392370041886, guid: 8ae53ba1691fc4f05838bf8cfd863e40, type: 2}
   - {fileID: 1176882743777774, guid: 935edba148d63418aaa42ee328e8243e, type: 2}
   - {fileID: 1315155885030968, guid: 7951c34ffb784458db11bea8f0c13940, type: 2}
+  enemySpawnInterval: 5
 --- !u!4 &841212562
 Transform:
   m_ObjectHideFlags: 0
